@@ -2,7 +2,7 @@
 
 $akunToAdd = 'monyet+214620716@gmail.com|Bearer eyJhbGciO|zil13q
 monyet+214620716@gmail.com|Bearer eyJhbGciO|zil13q
-monyet+214620716@gmail.com|Bearer eyJhbGciO|zil13q'; // formatnya: email|token|zil wallet
+monyet+214620716@gmail.com|Bearer eyJhbGciO|zil13q'; // formatnya: email|token|wallet
 
 foreach (explode('
 ', $akunToAdd) as $k => $v) {
